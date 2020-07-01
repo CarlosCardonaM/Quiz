@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What's the keyword to declare a new variable?",
+    "answers": [
+      "var",
+      "let",
+      "Var"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "var is the keyword we use to declare a new variable"
+  },
+  {
+    "question": "What's the keyword to declare a new constant?",
+    "answers": [
+      "con",
+      "let",
+      "Con"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "let is the keyword we use to declare a new constant"
+  }
+]
